@@ -1,0 +1,19 @@
+{
+    "config": {
+        "title": "Ngenic Tune",
+        "step": {
+            "user": {
+                "title": "Tune Konfigurasjon",
+                "description": "Fyll ut informasjon om din Ngenic Tune",
+                "data": {
+                    "token": "API Token"
+                }
+            }
+        },
+        "error": {
+            "already_configured": "Tune et allerede konfigurert",
+            "bad_token": "API token er feil",
+            "no_tunes": "Fant ikke Tunes"
+        }
+    }
+}
